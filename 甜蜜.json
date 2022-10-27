@@ -995,29 +995,46 @@
     ],
     "rules": [
         {
-            "host": "*",
+            "host": "www.sharenice.net",
             "rule": [
-                "iesdouyin.com/aweme",
-                "video_id="
-            ]
+                "douyin.com",
+                "/play/"
+            ],
+            "filter": []
         },
         {
-            "host": "*",
+            "host": "www.sharenice.net",
             "rule": [
                 "huoshan.com",
                 "/item/video/"
+            ],
+            "filter": []
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "sovv.qianpailive.com",
+                "vid="
+            ],
+            "filter": []
+        },
+        {
+            "host": "*",
+            "rule": [
+                "ysting.ysxs8.vip"
+            ],
+            "filter": []
+        },
+        {
+            "host": "*",
+            "rule": [
+                "http((?!http).){26,}?\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)\\?.*"
             ]
         },
         {
             "host": "*",
             "rule": [
-                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a|mp3)\\?.*"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a|mp3)"
+                "http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)"
             ]
         }
     ],
