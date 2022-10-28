@@ -35,14 +35,13 @@ class Spider(Spider):
 		if len(url) > 0:
 			return self.ali.detailContent(array)
 
-		rsp = self.fetch('https://www.alipansou.com'+tid)
-		url = self.regStr(rsp.text,pattern)
-		if len(url) == 0:
-			return ""
-		url = url.replace('\\','')
-		newArray = [url]
-		print(newArray)
-		return self.ali.detailContent(newArray)
+		header = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+                 'Referer': 'https://www.alipansou.com/s/' + id
+            }
+            if not id.startswith('http'):
+                r = requests.get('https://www.alipansou.com/cv/' + id, allow_redirects=False, headers=header)
+                url = re.search(r'href=\"(.*)\"', r.text).group(1)
 
 
 	def searchContent(self,key,quick):
