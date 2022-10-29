@@ -91,6 +91,16 @@
             "ext": "https://kebedd69.github.io/TVbox-interface/py/py_czspp.py"
         },
         {
+            "key": "py_ikan",
+            "name": "爱看6",
+            "type": 3,
+            "api": "py_ikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_ikan.py"
+        },
+        {
             "key": "py_libvio",
             "name": "libvio",
             "type": 3,
@@ -231,6 +241,16 @@
             "ext": "https://kebedd69.github.io/TVbox-interface/py/py_xmaomi.py"
         },
         {
+            "key": "py_if101",
+            "name": "if101",
+            "type": 3,
+            "api": "py_if101",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_if101.py"
+        },
+        {
             "key": "py_gitcafe",
             "name": "小纸条",
             "type": 3,
@@ -279,6 +299,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://kebedd69.github.io/TVbox-interface/py/py_pansou.py"
+        },
+        {
+            "key": "py_mac",
+            "name": "阿里搜索",
+            "type": 3,
+            "api": "py_mac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/py/plugin/py_mac.py"
         },
         {
             "key": "push_agent",
