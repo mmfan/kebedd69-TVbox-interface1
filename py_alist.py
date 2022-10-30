@@ -27,7 +27,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         cateManual = {
             "七米蓝": "https://al.chirmyram.com",
             "神器云": "https://al.chirmyram.com",
-            "甜蜜2": "http://7dlj.cn/zbomf",
+            "甜蜜2": "https://alist3.kebedd69.repl.co",
             "xiaoya2": "http://myalist.site",
             "xiaoya3": "http://alist.xiaoya.pro",
             "甜蜜": "https://alist.kebedd69.repl.co",
