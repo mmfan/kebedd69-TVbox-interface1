@@ -4,7 +4,6 @@ import sys
 import re
 sys.path.append('..')
 from base.spider import Spider
-import urllib.parse
 import json
 
 class Spider(Spider):  # 元类 默认的元类 type
@@ -160,6 +159,8 @@ class Spider(Spider):  # 元类 默认的元类 type
         url = 'https://www.3qu.live/api/v1/videos/{0}/{1}/playUrl'.format(ids[0],ids[1])
         rsp = self.fetch(url,headers=header)
         jRoot = json.loads(rsp.text)
+        if jRoot['data'] is None:
+            return {}
         apiurl = jRoot['data']['url']
         url = 'https://www.3qu.live{0}'.format(apiurl)
         result["parse"] = 0
