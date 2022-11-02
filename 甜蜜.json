@@ -284,7 +284,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5",
-            "ext": "http://api.lengniuge.eu.org/al.txt"
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
         },
         {
             "key": "zhaozy",
@@ -295,7 +295,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://api.lengniuge.eu.org/al.txt",
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json",
             "jar": "./jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5"
         },
         {
@@ -308,7 +308,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5",
-            "ext": "http://api.lengniuge.eu.org/al.txt"
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
         },
         {
             "key": "csp_xpath_qiumi",
@@ -348,7 +348,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://api.lengniuge.eu.org/al.txt"
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
         }
     ],
     "lives": [
