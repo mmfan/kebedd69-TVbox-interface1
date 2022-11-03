@@ -83,8 +83,7 @@
             "api": "csp_Juhuang",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": ""
+            "filterable": 1
         },
         {
             "key": "Lezhu_spider",
@@ -104,6 +103,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://kebedd69.github.io/TVbox-interface/json/nmys.json"
+        },
+        {
+            "key": "饭团",
+            "name": "饭团(SP)",
+            "api": "csp_Fantuan",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
         },
         {
             "key": "Lib",
@@ -1104,5 +1112,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1022.jar;md5;f6abd495ea859880f7e2d97010bae00d"
+    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;c4ba98711fac35daff17780d0817f5dc"
 }
