@@ -36,7 +36,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
         },
         {
             "key": "csp_MGTV",
@@ -46,7 +46,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
         },
         {
             "key": "csp_IQIYI",
@@ -56,7 +56,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
         },
         {
             "key": "APPTT",
@@ -113,7 +113,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5"
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5"
         },
         {
             "key": "Bttoo",
@@ -151,7 +151,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/甜蜜1020.jar"
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1020.jar"
         },
         {
             "key": "追剧喵",
@@ -283,7 +283,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5",
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5",
             "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
         },
         {
@@ -296,7 +296,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json",
-            "jar": "./jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5"
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5"
         },
         {
             "key": "AliPS",
@@ -307,7 +307,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5",
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5",
             "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
         },
         {
@@ -1099,5 +1099,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "spider": "./jar/甜蜜1022.jar;md5;f6abd495ea859880f7e2d97010bae00d"
+    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1022.jar;md5;f6abd495ea859880f7e2d97010bae00d"
 }
