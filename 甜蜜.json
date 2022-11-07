@@ -68,15 +68,6 @@
             "searchable": 1
         },
         {
-            "key": "桉t4",
-            "name": "豆瓣榜单（桉T4）",
-            "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=c3895f91c81741959c22feb5fe3a5def&timeout=6",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
             "key": "剧荒TV（SP）",
             "name": "剧荒（SP）",
             "type": 3,
@@ -432,6 +423,45 @@
             "name": "风起吴郡",
             "type": 1,
             "url": "https://play.fuqizhishi.com/jx/API.php?appkey=iiiixiaobai&url="
+        },
+        {
+            "name": "风起零陵",
+            "type": 1,
+            "url": "https://player.movie09.com/dplayer/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "gbxy",
+            "type": 0,
+            "url": "http://jx.gbxy.net.cn/?url="
+        },
+        {
+            "name": "freejson",
+            "type": 0,
+            "url": "https://h5.freejson.xyz/player/?url="
         },
         {
             "name": "风起长垣",
